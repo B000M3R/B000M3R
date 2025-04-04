@@ -5,10 +5,10 @@ I'm John, and I’m deeply passionate about **service management**, not just as 
 From owning and managing ITSM systems to fine tuning Service Management routines, I’ve witnessed how the right approach can transform delivery, empower teams, and keep customers smiling. I believe that if the goal is to create value for the business through services, then the service management system for creating that value should be the starting point for all Service Management architecture. My mission? To craft service management systems that don’t just work, but are consistently improved and reliably deliver.
 
 ## About Me 🌟
-- 🎯 **Focus**: Service Management, IT Operations, IT Project Management
-- 💼 **Vibe**: Turning chaos into clarity, one service ticket at a time 😁
+- 🎯 **Focus** Service Management, IT Operations, IT Project Management
+- 💼 **Vibe** Turning chaos into clarity, one service ticket at a time 😁
 - 🛠️ **Tools I Love** A fool with a tool is still a fool, tools are only as good as the hands that wield them
-- 🌍 **Mission**: Building routines between people, processes, and technology
+- 🌍 **Mission** Building routines between people, processes, and technology
 
 ## What I Do & What I Work With 🧩
 - 🖥️ Manage ITSM and streamline service delivery with a focus on improvement and user satisfaction
