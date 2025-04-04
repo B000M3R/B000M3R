@@ -10,9 +10,9 @@ From owning and managing ITSM systems to fine tuning Service Management routines
 - 🛠️ **Tools I Love** A fool with a tool is still a fool, tools are only as good as the hands that wield them
 - 🌍 **Mission** Building routines between people, processes, and technology
 
-## What I Do & What I Work With 🧩
+## What I Do 🧩
 - 🖥️ Manage ITSM and streamline service delivery with a focus on improvement and user satisfaction
-- 🔄 Design and improve ITSM systems that *actually* work
+- 🔄 Design, build and improve ITSM systems that *actually* work
 - 📊 Analyse and enhance the customer experience using data-driven insights (SQL & Power BI)
 - 🤝 Collaborate with teams to standardise Service Management routines
 - 🐧 Desktop/Laptop. Linux (mostly Mint and Ubuntu, Debian in Proxmox virtualisation), Windows, if I have to
