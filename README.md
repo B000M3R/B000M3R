@@ -27,7 +27,7 @@ From owning and managing ITSM systems to fine tuning Service Management routines
 ## Let’s Connect! 📬
 - [LinkedIn](https://www.linkedin.com/in/bostockj)
 - Got a service management challenge? Drop me a line—I’d love to chat! 💬
-
+- 📂 [**View my ITSM & IT Project Case Studies**](https://b000m3r.github.io/project-snapshots/index.html)  
 
 ## My GitHub Stats 📈
 ![B000M3R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=B000M3R&show_icons=true&theme=radical)
